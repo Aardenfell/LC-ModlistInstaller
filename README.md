@@ -4,10 +4,10 @@ This is a Lethal Company modlist installer for my *tech savvy* members of the Re
 Note: the exe deletes all plugins inside of your plugins folder to ensure nothing old is left behind, ** you have been warned**
 
 ## How to use exe
-Run
-find Lethal Company root folder
-ENSURE that your install path reads `<steamDIR>steamapps/common/Lethal Company` and not `<steamDIR>steamapps/common/Lethal Company/Lethal Company`
-Profit
+Run__
+find Lethal Company root folder__
+ENSURE that your install path reads `<steamDIR>steamapps/common/Lethal Company` and not `<steamDIR>steamapps/common/Lethal Company/Lethal Company`__
+Profit__
 
 ## How to install w/ zip (for first time install)
 Goto `<steamDIR>/steamapps/common/Lethal Company`
