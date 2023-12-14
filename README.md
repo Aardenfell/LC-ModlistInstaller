@@ -1,7 +1,7 @@
 # LC-Modlist-Installer
 This is a Lethal Company modlist installer for my *tech savvy* members of the Refugees discord ;p
 
-Note: the exe deletes all plugins inside of your plugins folder to ensure nothing old is left behind, ** you have been warned**
+Note: the exe deletes all plugins inside of your plugins folder to ensure nothing old is left behind, **you have been warned**
 
 ## How to use exe
 Run <br /> 
