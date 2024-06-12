@@ -12,6 +12,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Breaking change:** docs(changelog): update changelog and switch to semantic versioning [`829be26`](https://github.com/Aardenfell/LC-ModlistInstaller/commit/829be269624f29bb49727388a0b9ed42c2043894)
 - chore: update package.json with auto-changelog config [`8672998`](https://github.com/Aardenfell/LC-ModlistInstaller/commit/867299878fdd3fd607dacfc5875acb597c67ee5d)
 - chore: add package.json with auto-changelog [`3319049`](https://github.com/Aardenfell/LC-ModlistInstaller/commit/3319049f320d05b5dbc04547946b99fa5125ad65)
+- docs(readme): add version badge and update project status [`1671bc7`](https://github.com/Aardenfell/LC-ModlistInstaller/commit/1671bc7cae917a0614a01d425ea0c79d3a72f0ea)
+- docs(changelog): update changelog [`3f5747c`](https://github.com/Aardenfell/LC-ModlistInstaller/commit/3f5747cf4551ce3e269dd893ea4a13d9f431cda8)
 
 ## [6.0.0](https://github.com/Aardenfell/LC-ModlistInstaller/compare/v6...6.0.0) - 2024-06-11
 
