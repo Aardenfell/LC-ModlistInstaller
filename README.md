@@ -1,4 +1,5 @@
-![Project Status](https://img.shields.io/badge/Status-Completed-Green)
+![Project Status](https://img.shields.io/badge/Status-Inactive-lightgrey)
+![Project Version](https://img.shields.io/github/v/release/aardenfell/LC-ModlistInstaller)
 [![GitHub license](https://img.shields.io/badge/license-MIT-green)](https://github.com/Aardenfell/LC-ModlistInstaller/blob/main/LICENSE)
 ![GitHub issues](https://img.shields.io/github/issues/Aardenfell/LC-ModlistInstaller)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Aardenfell/LC-ModlistInstaller)
@@ -11,7 +12,7 @@
 
 # LC-Modlist-Installer
 
-This is a Lethal Company modlist installer designed for the *tech savvy* members of the Refugees discord community.
+This is a Lethal Company modlist installer designed for the /tech savvy/ members of the Refugees discord community.
 
 Note: The executable deletes all plugins inside your plugins folder to ensure nothing old is left behind. **You have been warned.**
 
