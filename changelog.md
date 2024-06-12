@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Commits
 
+- **Breaking change:** docs(changelog): update changelog and switch to semantic versioning [`829be26`](https://github.com/Aardenfell/LC-ModlistInstaller/commit/829be269624f29bb49727388a0b9ed42c2043894)
 - chore: update package.json with auto-changelog config [`8672998`](https://github.com/Aardenfell/LC-ModlistInstaller/commit/867299878fdd3fd607dacfc5875acb597c67ee5d)
 - chore: add package.json with auto-changelog [`3319049`](https://github.com/Aardenfell/LC-ModlistInstaller/commit/3319049f320d05b5dbc04547946b99fa5125ad65)
 
